@@ -1,0 +1,5 @@
+signup
+signin
+bank_details
+new_form
+form_status
